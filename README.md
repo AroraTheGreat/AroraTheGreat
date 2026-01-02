@@ -63,18 +63,10 @@ Computer vision project using OpenCV
 🔹 **[Tic Tac Toe Game](https://github.com/AroraTheGreat/Tic-tac-toe)**  
 JavaScript based interactive game
 ---
-
-## 📊 GitHub Stats
+## 🧠 Coding Profiles
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AroraTheGreat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AroraTheGreat&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="165"
-  />
+  <img src="https://leetcard.jacoblin.cool/sarthakarora380?theme=dark&font=Montserrat" />
 </p>
 
 ---
