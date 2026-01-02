@@ -72,9 +72,11 @@ JavaScript based interactive game
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: sarthakarora9800@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/sarthak-arora-24666a384 
+## 🤝 Connect With Me
+
+- 📧 **Email:** [sarthakarora9800@gmail.com](mailto:sarthakarora9800@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sarthak-arora-24666a384](https://www.linkedin.com/in/sarthak-arora-24666a384/)
+- 🧠 **LeetCode:** [leetcode.com/u/sarthakarora380](https://leetcode.com/u/sarthakarora380)
 
 ---
 
