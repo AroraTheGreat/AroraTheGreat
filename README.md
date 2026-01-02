@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarthak Arora  
 
-<!--
-**AroraTheGreat/AroraTheGreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IIIT Bhopal | 💻 Software Developer  
+🚀 Full Stack • Backend • AI/ML Enthusiast  
 
-Here are some ideas to get you started:
+I love building real-world applications, solving problems with clean code,  
+and learning how scalable systems work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Languages:** JavaScript, Python, C++  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, PostgreSQL  
+**Tools:** Git, GitHub, Postman, VS Code  
+
+---
+
+## 🚀 Featured Projects
+🔹 **MERN Stack Application** – Full-stack CRUD app with authentication  
+🔹 **Heart Disease Detection** – ML model using Python  
+🔹 **Vision-Based Vehicle Detection** – Computer vision project  
+🔹 **Tic Tac Toe Game** – JavaScript based interactive game  
+
+👉 Check pinned repositories below ⬇️
+
+---
+
+## 📊 GitHub Stats
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=AroraTheGreat&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AroraTheGreat&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: sarthakarora9800@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/sarthak-arora-683183258  
+
+---
+
+⭐ *Always learning. Always building.*
